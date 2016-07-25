@@ -1,3 +1,19 @@
+/* 
+
+   JalousieSteuerung
+
+   This code controls the motors of two window blinds.
+   It provides menu access to manually open or close the window blinds.
+   Additionally, they can be automatically opened at a user-set time.
+
+   Code by Matthias Reis <matthias.reis@hu-berlin.de>
+
+   Partially based on LiquidCrystal Library (see below for credits)
+
+*/
+
+
+
 /*
   LiquidCrystal Library - Hello World
  
